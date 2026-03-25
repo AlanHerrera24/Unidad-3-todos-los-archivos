@@ -1,0 +1,14 @@
+body{
+    font-size: 1.5em;
+    color: red;
+    background-image: url("HTDOCS/img/capturapantalla.png");
+    background-position: center;
+    background-repeat: repeat-x;
+    background-attachment: fixed;
+}
+
+h1, h2{
+    padding: 0.5em;
+    border: 2px dashed black;
+    margin: 0.5em;
+}
